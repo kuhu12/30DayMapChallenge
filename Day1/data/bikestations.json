@@ -1,0 +1,5645 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.397086,37.792251 ]
+    },
+    "properties": {
+    "sid":17,
+    "Station Name":"Embarcadero BART Station (Beale St at Market St)",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.395282,37.776598 ]
+    },
+    "properties": {
+    "sid":30,
+    "Station Name":"San Francisco Caltrain (Townsend St at 4th St)",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4310597,37.7662185 ]
+    },
+    "properties": {
+    "sid":95,
+    "Station Name":"Sanchez St at 15th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4264968,37.7630152 ]
+    },
+    "properties": {
+    "sid":107,
+    "Station Name":"17th St at Dolores St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407054,37.769263 ]
+    },
+    "properties": {
+    "sid":89,
+    "Station Name":"Division St at Potrero Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4100475,37.759162 ]
+    },
+    "properties": {
+    "sid":125,
+    "Station Name":"20th St at Bryant St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4213392,37.7592103 ]
+    },
+    "properties": {
+    "sid":121,
+    "Station Name":"Mission Playground",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4148171,37.7605936 ]
+    },
+    "properties": {
+    "sid":123,
+    "Station Name":"Folsom St at 19th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4073586,37.7670785 ]
+    },
+    "properties": {
+    "sid":101,
+    "Station Name":"15th St at Potrero Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410349,37.7645435 ]
+    },
+    "properties": {
+    "sid":113,
+    "Station Name":"Franklin Square",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4264353,37.7614205 ]
+    },
+    "properties": {
+    "sid":120,
+    "Station Name":"Mission Dolores Park",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3908335,37.76704458 ]
+    },
+    "properties": {
+    "sid":104,
+    "Station Name":"4th St at 16th St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3918085,37.787963 ]
+    },
+    "properties": {
+    "sid":27,
+    "Station Name":"Beale St at Harrison St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4152042,37.7637085 ]
+    },
+    "properties": {
+    "sid":110,
+    "Station Name":"17th & Folsom Street Park (17th St at Folsom St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412544,37.758862 ]
+    },
+    "properties": {
+    "sid":129,
+    "Station Name":"Harrison St at 20th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3918849,37.75770404 ]
+    },
+    "properties": {
+    "sid":130,
+    "Station Name":"22nd St Caltrain Station",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402717,37.771058 ]
+    },
+    "properties": {
+    "sid":90,
+    "Station Name":"Townsend St at 7th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2913604,37.8409452 ]
+    },
+    "properties": {
+    "sid":153,
+    "Station Name":"59th St at Horton St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2640037,37.8368013 ]
+    },
+    "properties": {
+    "sid":174,
+    "Station Name":"Shattuck Ave at 51st St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2876102,37.8297046 ]
+    },
+    "properties": {
+    "sid":148,
+    "Station Name":"Horton St at 40th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2748441,37.81498823 ]
+    },
+    "properties": {
+    "sid":164,
+    "Station Name":"Isabella St at San Pablo Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2782669,37.8312769 ]
+    },
+    "properties": {
+    "sid":150,
+    "Station Name":"Adeline St at 40th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4339496,37.750506 ]
+    },
+    "properties": {
+    "sid":137,
+    "Station Name":"Jersey St at Castro St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398436,37.79728 ]
+    },
+    "properties": {
+    "sid":11,
+    "Station Name":"Davis St at Jackson St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2880451,37.8419238 ]
+    },
+    "properties": {
+    "sid":154,
+    "Station Name":"Doyle St at 59th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2935283,37.84052117 ]
+    },
+    "properties": {
+    "sid":155,
+    "Station Name":"Emeryville Public Market",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2515349,37.8417999 ]
+    },
+    "properties": {
+    "sid":172,
+    "Station Name":"College Ave at Taft Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2886647,37.8384435 ]
+    },
+    "properties": {
+    "sid":156,
+    "Station Name":"Stanford Ave at Hollis St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4268059,37.7436839 ]
+    },
+    "properties": {
+    "sid":145,
+    "Station Name":"29th St at Church St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.261351,37.8444927 ]
+    },
+    "properties": {
+    "sid":170,
+    "Station Name":"Telegraph Ave at 58th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4202187,37.7479981 ]
+    },
+    "properties": {
+    "sid":141,
+    "Station Name":"Valencia St at Cesar Chavez St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2720799,37.8005161 ]
+    },
+    "properties": {
+    "sid":162,
+    "Station Name":"Franklin St at 9th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2782444,37.8160598 ]
+    },
+    "properties": {
+    "sid":159,
+    "Station Name":"24th St at Market St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2634901,37.8332786 ]
+    },
+    "properties": {
+    "sid":158,
+    "Station Name":"Shattuck Ave at Telegraph Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39997,37.795001 ]
+    },
+    "properties": {
+    "sid":14,
+    "Station Name":"Clay St at Battery St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2644881,37.8403643 ]
+    },
+    "properties": {
+    "sid":173,
+    "Station Name":"Shattuck Ave at 55th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.265569,37.84959497 ]
+    },
+    "properties": {
+    "sid":168,
+    "Station Name":"Alcatraz Ave at Shattuck Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2678864,37.81607312 ]
+    },
+    "properties": {
+    "sid":179,
+    "Station Name":"Telegraph Ave at 27th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2619284,37.8193814 ]
+    },
+    "properties": {
+    "sid":178,
+    "Station Name":"Broadway at 30th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2679508,37.80936861 ]
+    },
+    "properties": {
+    "sid":182,
+    "Station Name":"19th Street BART Station",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4231805,37.7423139 ]
+    },
+    "properties": {
+    "sid":146,
+    "Station Name":"30th St at San Jose Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2687726,37.8126783 ]
+    },
+    "properties": {
+    "sid":180,
+    "Station Name":"Telegraph Ave at 23rd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4120835,37.750945 ]
+    },
+    "properties": {
+    "sid":139,
+    "Station Name":"Garfield Square (25th St at Harrison St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4249863,37.7478584 ]
+    },
+    "properties": {
+    "sid":140,
+    "Station Name":"Cesar Chavez St at Dolores St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4274114,37.7509004 ]
+    },
+    "properties": {
+    "sid":138,
+    "Station Name":"Jersey St at Church St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398525,37.799953 ]
+    },
+    "properties": {
+    "sid":8,
+    "Station Name":"The Embarcadero at Vallejo St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4214722,37.7440667 ]
+    },
+    "properties": {
+    "sid":147,
+    "Station Name":"29th St at Tiffany Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4221402,37.7457388 ]
+    },
+    "properties": {
+    "sid":142,
+    "Station Name":"Guerrero Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4209752,37.7552126 ]
+    },
+    "properties": {
+    "sid":133,
+    "Station Name":"Valencia St at 22nd St",
+    "Dock Count":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2651002,37.8262863 ]
+    },
+    "properties": {
+    "sid":177,
+    "Station Name":"MacArthur Blvd at Telegraph Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2653199,37.7973195 ]
+    },
+    "properties": {
+    "sid":163,
+    "Station Name":"Lake Merritt BART Station",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4206278,37.7524278 ]
+    },
+    "properties": {
+    "sid":134,
+    "Station Name":"Valencia St at 24th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2519004,37.84427875 ]
+    },
+    "properties": {
+    "sid":171,
+    "Station Name":"Rockridge BART Station",
+    "Dock Count":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2871801,37.8361823 ]
+    },
+    "properties": {
+    "sid":151,
+    "Station Name":"53rd St at Hollis St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2810507,37.8356322 ]
+    },
+    "properties": {
+    "sid":152,
+    "Station Name":"47th St at San Pablo Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2699271,37.8087021 ]
+    },
+    "properties": {
+    "sid":183,
+    "Station Name":"Telegraph Ave at 19th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.394203,37.795392 ]
+    },
+    "properties": {
+    "sid":15,
+    "Station Name":"San Francisco Ferry Building (Harry Bridges Plaza)",
+    "Dock Count":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2653043,37.8465156 ]
+    },
+    "properties": {
+    "sid":169,
+    "Station Name":"Bushrod Park",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2856333,37.8312752 ]
+    },
+    "properties": {
+    "sid":149,
+    "Station Name":"Emeryville Town Hall",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2663146,37.82840997 ]
+    },
+    "properties": {
+    "sid":176,
+    "Station Name":"MacArthur BART Station",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2651925,37.8113768 ]
+    },
+    "properties": {
+    "sid":181,
+    "Station Name":"Grand Ave at Webster St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2913761,37.8467842 ]
+    },
+    "properties": {
+    "sid":157,
+    "Station Name":"65th St at Hollis St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4114029,37.7472996 ]
+    },
+    "properties": {
+    "sid":144,
+    "Station Name":"Precita Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2623663,37.8359455 ]
+    },
+    "properties": {
+    "sid":175,
+    "Station Name":"49th St at Telegraph Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2521599,37.848152 ]
+    },
+    "properties": {
+    "sid":167,
+    "Station Name":"College Ave at Harwood Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2948365,37.8053183 ]
+    },
+    "properties": {
+    "sid":160,
+    "Station Name":"West Oakland BART Station",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2525233,37.8513755 ]
+    },
+    "properties": {
+    "sid":166,
+    "Station Name":"College Ave at Alcatraz Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4049044,37.78637527 ]
+    },
+    "properties": {
+    "sid":3,
+    "Station Name":"Powell St BART Station (Market St at 4th St)",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.253842,37.794396 ]
+    },
+    "properties": {
+    "sid":221,
+    "Station Name":"6th Ave at E 12th St (Temporary Location)",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258732,37.8388 ]
+    },
+    "properties": {
+    "sid":205,
+    "Station Name":"Miles Ave at Cavour St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2811926,37.8238474 ]
+    },
+    "properties": {
+    "sid":213,
+    "Station Name":"32nd St at Adeline St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2739697,37.79519476 ]
+    },
+    "properties": {
+    "sid":203,
+    "Station Name":"Webster St at 2nd St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2516207,37.8357883 ]
+    },
+    "properties": {
+    "sid":207,
+    "Station Name":"Broadway at Coronado Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.279352,37.796248 ]
+    },
+    "properties": {
+    "sid":187,
+    "Station Name":"Jack London Square",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2487796,37.7927143 ]
+    },
+    "properties": {
+    "sid":222,
+    "Station Name":"10th Ave at E 15th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2717971,37.82669559 ]
+    },
+    "properties": {
+    "sid":192,
+    "Station Name":"37th St at West St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2604366,37.82489253 ]
+    },
+    "properties": {
+    "sid":212,
+    "Station Name":"Mosswood Park",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2832823,37.80874983 ]
+    },
+    "properties": {
+    "sid":231,
+    "Station Name":"14th St at Filbert St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403234,37.80477 ]
+    },
+    "properties": {
+    "sid":6,
+    "Station Name":"The Embarcadero at Sansome St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2474587,37.80045941 ]
+    },
+    "properties": {
+    "sid":224,
+    "Station Name":"21st St at 5th Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2123982,37.77415256 ]
+    },
+    "properties": {
+    "sid":229,
+    "Station Name":"Bond St at High St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.267738,37.8426295 ]
+    },
+    "properties": {
+    "sid":188,
+    "Station Name":"Dover St at 57th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2472152,37.8127441 ]
+    },
+    "properties": {
+    "sid":193,
+    "Station Name":"Grand Ave at Santa Clara Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2674183,37.8335577 ]
+    },
+    "properties": {
+    "sid":209,
+    "Station Name":"45th St at MLK Jr Way",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420141,37.7648385 ]
+    },
+    "properties": {
+    "sid":223,
+    "Station Name":"16th St Mission BART Station 2",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2177284,37.77993 ]
+    },
+    "properties": {
+    "sid":228,
+    "Station Name":"Foothill Blvd at Harrington Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2760402,37.8061628 ]
+    },
+    "properties": {
+    "sid":232,
+    "Station Name":"MLK Jr Way at 14th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2226033,37.7837569 ]
+    },
+    "properties": {
+    "sid":227,
+    "Station Name":"Foothill Blvd at Fruitvale Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2914153,37.8107432 ]
+    },
+    "properties": {
+    "sid":230,
+    "Station Name":"14th St at Mandela Pkwy",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3981125,37.7869975 ]
+    },
+    "properties": {
+    "sid":25,
+    "Station Name":"Howard St at 2nd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2739367,37.8305452 ]
+    },
+    "properties": {
+    "sid":191,
+    "Station Name":"Market St at 40th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2629973,37.7976728 ]
+    },
+    "properties": {
+    "sid":201,
+    "Station Name":"10th St at Fallon St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2644961,37.80781318 ]
+    },
+    "properties": {
+    "sid":198,
+    "Station Name":"Snow Park",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2538102,37.80021357 ]
+    },
+    "properties": {
+    "sid":200,
+    "Station Name":"2nd Ave at E 18th St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2564602,37.80889393 ]
+    },
+    "properties": {
+    "sid":196,
+    "Station Name":"Grand Ave at Perkins St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2663179,37.8225475 ]
+    },
+    "properties": {
+    "sid":215,
+    "Station Name":"34th St at Telegraph Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2757325,37.8233214 ]
+    },
+    "properties": {
+    "sid":214,
+    "Station Name":"Market St at Brockhurst St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2748943,37.8007544 ]
+    },
+    "properties": {
+    "sid":202,
+    "Station Name":"Washington St at 8th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2626418,37.8013189 ]
+    },
+    "properties": {
+    "sid":186,
+    "Station Name":"Lakeside Dr at 14th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2512714,37.8381269 ]
+    },
+    "properties": {
+    "sid":206,
+    "Station Name":"College Ave at Bryant Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3945855,37.7963894 ]
+    },
+    "properties": {
+    "sid":12,
+    "Station Name":"Pier 1/2 at The Embarcadero",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2618225,37.8401858 ]
+    },
+    "properties": {
+    "sid":204,
+    "Station Name":"55th St at Telegraph Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2562242,37.83329352 ]
+    },
+    "properties": {
+    "sid":210,
+    "Station Name":"45th St at Manila",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2567156,37.8277573 ]
+    },
+    "properties": {
+    "sid":211,
+    "Station Name":"Broadway at 40th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2496799,37.8088479 ]
+    },
+    "properties": {
+    "sid":197,
+    "Station Name":"El Embarcadero at Grand Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2329915,37.781123 ]
+    },
+    "properties": {
+    "sid":226,
+    "Station Name":"26th Ave at International Blvd",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2607786,37.81231409 ]
+    },
+    "properties": {
+    "sid":195,
+    "Station Name":"Bay Pl at Vernon St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2734217,37.8113514 ]
+    },
+    "properties": {
+    "sid":220,
+    "Station Name":"San Pablo Ave at MLK Jr Way",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2343822,37.7851915 ]
+    },
+    "properties": {
+    "sid":225,
+    "Station Name":"23rd Ave at Foothill Blvd",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2717561,37.8396488 ]
+    },
+    "properties": {
+    "sid":189,
+    "Station Name":"Genoa St at 55th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2709501,37.8302232 ]
+    },
+    "properties": {
+    "sid":190,
+    "Station Name":"West St at 40th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.403452,37.788975 ]
+    },
+    "properties": {
+    "sid":19,
+    "Station Name":"Post St at Kearny St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418409,37.7813455 ]
+    },
+    "properties": {
+    "sid":41,
+    "Station Name":"Golden Gate Ave at Polk St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8838504,37.33279952 ]
+    },
+    "properties": {
+    "sid":208,
+    "Station Name":"4th St at San Carlos St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2717615,37.8170154 ]
+    },
+    "properties": {
+    "sid":217,
+    "Station Name":"27th St at MLK Jr Way",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2756976,37.8178269 ]
+    },
+    "properties": {
+    "sid":216,
+    "Station Name":"San Pablo Ave at 27th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2432677,37.8110807 ]
+    },
+    "properties": {
+    "sid":194,
+    "Station Name":"Lakeshore Ave at Trestle Glen Rd",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2851712,37.8123315 ]
+    },
+    "properties": {
+    "sid":218,
+    "Station Name":"DeFremery Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2801923,37.8098236 ]
+    },
+    "properties": {
+    "sid":219,
+    "Station Name":"Marston Campbell Park",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.255547,37.795913 ]
+    },
+    "properties": {
+    "sid":233,
+    "Station Name":"4th Ave at E 12th St (Temporary Location)",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8841054,37.3391456 ]
+    },
+    "properties": {
+    "sid":279,
+    "Station Name":"Santa Clara St at 7th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8977018,37.3302641 ]
+    },
+    "properties": {
+    "sid":283,
+    "Station Name":"Delmas Ave and San Fernando St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2543374,37.8693603 ]
+    },
+    "properties": {
+    "sid":243,
+    "Station Name":"Bancroft Way at College Ave",
+    "Dock Count":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400869,37.79857211 ]
+    },
+    "properties": {
+    "sid":9,
+    "Station Name":"Broadway at Battery St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2532529,37.8584732 ]
+    },
+    "properties": {
+    "sid":249,
+    "Station Name":"Russell St at College Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2254,37.778058 ]
+    },
+    "properties": {
+    "sid":234,
+    "Station Name":"Fruitvale Ave at International Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2605532,37.87511169 ]
+    },
+    "properties": {
+    "sid":256,
+    "Station Name":"Hearst Ave at Euclid Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2588044,37.8660431 ]
+    },
+    "properties": {
+    "sid":240,
+    "Station Name":"Haste St at Telegraph Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.282497,37.8036865 ]
+    },
+    "properties": {
+    "sid":236,
+    "Station Name":"Market St at 8th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9125165,37.3322326 ]
+    },
+    "properties": {
+    "sid":276,
+    "Station Name":"Julian St at The Alameda",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2695923,37.88022245 ]
+    },
+    "properties": {
+    "sid":254,
+    "Station Name":"Vine St at Shattuck Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4311578,37.78352084 ]
+    },
+    "properties": {
+    "sid":285,
+    "Station Name":"Webster St at O'Farrell St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2702132,37.8524766 ]
+    },
+    "properties": {
+    "sid":241,
+    "Station Name":"Ashby BART Station",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2693844,37.8601246 ]
+    },
+    "properties": {
+    "sid":242,
+    "Station Name":"Milvia St at Derby St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4084449,37.78389936 ]
+    },
+    "properties": {
+    "sid":5,
+    "Station Name":"Powell St BART Station (Market St at 5th St)",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2244982,37.7752321 ]
+    },
+    "properties": {
+    "sid":237,
+    "Station Name":"Fruitvale BART Station",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258801,37.8623199 ]
+    },
+    "properties": {
+    "sid":269,
+    "Station Name":"Telegraph Ave at Carleton St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2684872,37.87367621 ]
+    },
+    "properties": {
+    "sid":244,
+    "Station Name":"Shattuck Ave at Hearst Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2674431,37.8658466 ]
+    },
+    "properties": {
+    "sid":252,
+    "Station Name":"Channing Way at Shattuck Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2675583,37.8575672 ]
+    },
+    "properties": {
+    "sid":274,
+    "Station Name":"Oregon St at Adeline St",
+    "Dock Count":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2537994,37.86641794 ]
+    },
+    "properties": {
+    "sid":253,
+    "Station Name":"Haste St at College Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2902305,37.8628271 ]
+    },
+    "properties": {
+    "sid":263,
+    "Station Name":"Channing Way at San Pablo Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.283093,37.873558 ]
+    },
+    "properties": {
+    "sid":250,
+    "Station Name":"North Berkeley BART Station",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8832147,37.33712237 ]
+    },
+    "properties": {
+    "sid":280,
+    "Station Name":"San Fernando St at 7th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270556,37.8690599 ]
+    },
+    "properties": {
+    "sid":246,
+    "Station Name":"Berkeley Civic Center",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4046885,37.795402 ]
+    },
+    "properties": {
+    "sid":10,
+    "Station Name":"Washington St at Kearny St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2535687,37.8618037 ]
+    },
+    "properties": {
+    "sid":267,
+    "Station Name":"Derby St at College Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2865331,37.86996671 ]
+    },
+    "properties": {
+    "sid":262,
+    "Station Name":"West St at University Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2635654,37.85557366 ]
+    },
+    "properties": {
+    "sid":273,
+    "Station Name":"Fulton St at Ashby Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2664467,37.8723555 ]
+    },
+    "properties": {
+    "sid":258,
+    "Station Name":"University Ave at Oxford St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9086179,37.33367712 ]
+    },
+    "properties": {
+    "sid":277,
+    "Station Name":"W Julian St at N Morrison St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2912095,37.8588682 ]
+    },
+    "properties": {
+    "sid":265,
+    "Station Name":"Ninth St at Parker St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8888891,37.3429973 ]
+    },
+    "properties": {
+    "sid":275,
+    "Station Name":"Julian St at 6th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2658964,37.8677892 ]
+    },
+    "properties": {
+    "sid":247,
+    "Station Name":"Fulton St at Bancroft Way",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2797203,37.87055533 ]
+    },
+    "properties": {
+    "sid":251,
+    "Station Name":"California St at University Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2730677,37.8717192 ]
+    },
+    "properties": {
+    "sid":238,
+    "Station Name":"MLK Jr Way at University Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402855,37.7942465 ]
+    },
+    "properties": {
+    "sid":13,
+    "Station Name":"Commercial St at Montgomery St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4008757,37.78487208 ]
+    },
+    "properties": {
+    "sid":284,
+    "Station Name":"Yerba Buena Center for the Arts (Howard St at 3rd St)",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2831267,37.85578332 ]
+    },
+    "properties": {
+    "sid":271,
+    "Station Name":"San Pablo Park",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2893702,37.8072393 ]
+    },
+    "properties": {
+    "sid":235,
+    "Station Name":"Union St at 10th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.258764,37.8688126 ]
+    },
+    "properties": {
+    "sid":239,
+    "Station Name":"Bancroft Way at Telegraph Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2996759,37.87040712 ]
+    },
+    "properties": {
+    "sid":257,
+    "Station Name":"Fifth St at Delaware St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2597949,37.8559558 ]
+    },
+    "properties": {
+    "sid":248,
+    "Station Name":"Telegraph Ave at Ashby Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2993708,37.866249 ]
+    },
+    "properties": {
+    "sid":259,
+    "Station Name":"Addison St at Fourth St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2695279,37.87657255 ]
+    },
+    "properties": {
+    "sid":255,
+    "Station Name":"Virginia St at Shattuck Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2615778,37.85749021 ]
+    },
+    "properties": {
+    "sid":268,
+    "Station Name":"Ellsworth St at Russell St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2896981,37.85390696 ]
+    },
+    "properties": {
+    "sid":270,
+    "Station Name":"Ninth St at Heinz Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.396906,37.78537659 ]
+    },
+    "properties": {
+    "sid":37,
+    "Station Name":"Folsom St at 2nd St",
+    "Dock Count":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2647911,37.8624644 ]
+    },
+    "properties": {
+    "sid":266,
+    "Station Name":"Parker St at Fulton St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8807965,37.3383952 ]
+    },
+    "properties": {
+    "sid":281,
+    "Station Name":"9th St at San Fernando St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8903494,37.3324263 ]
+    },
+    "properties": {
+    "sid":282,
+    "Station Name":"Market St at Park St",
+    "Dock Count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.268422,37.870139 ]
+    },
+    "properties": {
+    "sid":245,
+    "Station Name":"Downtown Berkeley BART",
+    "Dock Count":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9048882,37.3319323 ]
+    },
+    "properties": {
+    "sid":278,
+    "Station Name":"The Alameda at Bush St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.886943,37.333798 ]
+    },
+    "properties": {
+    "sid":311,
+    "Station Name":"Paseo De San Antonio at 2nd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8932,37.331415 ]
+    },
+    "properties": {
+    "sid":313,
+    "Station Name":"Almaden Blvd at San Fernando St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.87712,37.3259984 ]
+    },
+    "properties": {
+    "sid":296,
+    "Station Name":"5th St at Virginia St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.900084,37.332692 ]
+    },
+    "properties": {
+    "sid":307,
+    "Station Name":"SAP Center",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8969655,37.3448821 ]
+    },
+    "properties": {
+    "sid":292,
+    "Station Name":"Empire St at 1st St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.412408,37.7839879 ]
+    },
+    "properties": {
+    "sid":34,
+    "Station Name":"Father Alfred E Boeddeker Park",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8810904,37.32212463 ]
+    },
+    "properties": {
+    "sid":298,
+    "Station Name":"Oak St at 1st St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.899662,37.34759257 ]
+    },
+    "properties": {
+    "sid":290,
+    "Station Name":"George St at 1st St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.886995,37.337391 ]
+    },
+    "properties": {
+    "sid":309,
+    "Station Name":"San Jose City Hall",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.894902,37.333988 ]
+    },
+    "properties": {
+    "sid":314,
+    "Station Name":"Santa Clara St at Almaden Blvd",
+    "Dock Count":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8892731,37.32673 ]
+    },
+    "properties": {
+    "sid":287,
+    "Station Name":"Almaden Blvd at Balbach St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8879312,37.3229796 ]
+    },
+    "properties": {
+    "sid":297,
+    "Station Name":"Locust St at Grant St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8759263,37.3327938 ]
+    },
+    "properties": {
+    "sid":295,
+    "Station Name":"William St at 10th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.889937,37.339301 ]
+    },
+    "properties": {
+    "sid":306,
+    "Station Name":"Saint James Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.877349,37.333955 ]
+    },
+    "properties": {
+    "sid":317,
+    "Station Name":"San Salvador St at 9th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8766132,37.3364659 ]
+    },
+    "properties": {
+    "sid":286,
+    "Station Name":"San Carlos St at 11th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4394459,37.7824046 ]
+    },
+    "properties": {
+    "sid":29,
+    "Station Name":"O'Farrell St at Divisadero St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.901782,37.329732 ]
+    },
+    "properties": {
+    "sid":312,
+    "Station Name":"San Jose Diridon Station",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9031829,37.3413348 ]
+    },
+    "properties": {
+    "sid":291,
+    "Station Name":"Autumn Parkway at Coleman Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.884995,37.3172979 ]
+    },
+    "properties": {
+    "sid":300,
+    "Station Name":"Palm St at Willow St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.888979,37.330698 ]
+    },
+    "properties": {
+    "sid":318,
+    "Station Name":"San Carlos St at Market St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8940901,37.336802 ]
+    },
+    "properties": {
+    "sid":308,
+    "Station Name":"San Pedro Square",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8869376,37.33116799 ]
+    },
+    "properties": {
+    "sid":316,
+    "Station Name":"1st St at San Carlos St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9020161,37.3509643 ]
+    },
+    "properties": {
+    "sid":288,
+    "Station Name":"Mission St at 1st St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.88566,37.335885 ]
+    },
+    "properties": {
+    "sid":310,
+    "Station Name":"San Fernando St at 4th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8958426,37.35090179 ]
+    },
+    "properties": {
+    "sid":289,
+    "Station Name":"5th St at Taylor St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8741186,37.3236779 ]
+    },
+    "properties": {
+    "sid":299,
+    "Station Name":"Bestor Art Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2601724,37.85022187 ]
+    },
+    "properties": {
+    "sid":18,
+    "Station Name":"Telegraph Ave at Alcatraz Ave",
+    "Dock Count":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.272968,37.834174 ]
+    },
+    "properties": {
+    "sid":315,
+    "Station Name":"Market St at 45th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4028659,37.78064509 ]
+    },
+    "properties": {
+    "sid":321,
+    "Station Name":"Folsom St at 5th St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.884559,37.327581 ]
+    },
+    "properties": {
+    "sid":294,
+    "Station Name":"Pierce Ave at Market St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.895617,37.342725 ]
+    },
+    "properties": {
+    "sid":305,
+    "Station Name":"Ryland Park",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4059504,37.79801364 ]
+    },
+    "properties": {
+    "sid":323,
+    "Station Name":"Broadway at Kearny St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8831724,37.3184498 ]
+    },
+    "properties": {
+    "sid":301,
+    "Station Name":"Willow St at Vine St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.905733,37.352601 ]
+    },
+    "properties": {
+    "sid":303,
+    "Station Name":"San Pedro St at Hedding St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4085307,37.78829998 ]
+    },
+    "properties": {
+    "sid":324,
+    "Station Name":"Union Square (Powell St at Post St)",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8947978,37.34875869 ]
+    },
+    "properties": {
+    "sid":304,
+    "Station Name":"Jackson St at 5th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8892765,37.3361883 ]
+    },
+    "properties": {
+    "sid":341,
+    "Station Name":"Fountain Alley at S 2nd St",
+    "Dock Count":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3948805,37.794525 ]
+    },
+    "properties": {
+    "sid":16,
+    "Station Name":"Market St at Steuart St",
+    "Dock Count":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3904473,37.75043436 ]
+    },
+    "properties": {
+    "sid":390,
+    "Station Name":"Indiana St at Cesar Chavez St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3900557,37.73172669 ]
+    },
+    "properties": {
+    "sid":362,
+    "Station Name":"Lane St at Revere Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2933996,37.86906048 ]
+    },
+    "properties": {
+    "sid":351,
+    "Station Name":"10th St at University Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4065995,37.72694297 ]
+    },
+    "properties": {
+    "sid":352,
+    "Station Name":"Goettingen St at Bacon St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.270582,37.849735 ]
+    },
+    "properties": {
+    "sid":340,
+    "Station Name":"Harmon St at Adeline St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.388795,37.75536713 ]
+    },
+    "properties": {
+    "sid":355,
+    "Station Name":"23rd St at Tennessee St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4135786,37.80274615 ]
+    },
+    "properties": {
+    "sid":371,
+    "Station Name":"Lombard St at Columbus Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3899698,37.7719996 ]
+    },
+    "properties": {
+    "sid":364,
+    "Station Name":"China Basin St at 3rd St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2705793,37.80318908 ]
+    },
+    "properties": {
+    "sid":338,
+    "Station Name":"13th St at Franklin St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3928961,37.72927865 ]
+    },
+    "properties": {
+    "sid":358,
+    "Station Name":"Williams Ave at 3rd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3881105,37.787332 ]
+    },
+    "properties": {
+    "sid":28,
+    "Station Name":"The Embarcadero at Bryant St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2717381,37.80456235 ]
+    },
+    "properties": {
+    "sid":7,
+    "Station Name":"Frank H Ogawa Plaza",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4472913,37.77904666 ]
+    },
+    "properties": {
+    "sid":380,
+    "Station Name":"Masonic Ave at Turk St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.266438,37.80000163 ]
+    },
+    "properties": {
+    "sid":339,
+    "Station Name":"Jackson St at 11th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398198,37.766594 ]
+    },
+    "properties": {
+    "sid":345,
+    "Station Name":"Hubbell St at 16th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4215676,37.79416044 ]
+    },
+    "properties": {
+    "sid":384,
+    "Station Name":"Jackson St at Polk St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8860498,37.35288683 ]
+    },
+    "properties": {
+    "sid":388,
+    "Station Name":"Backesto Park (Jackson St at 13th St)",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4260938,37.75823842 ]
+    },
+    "properties": {
+    "sid":381,
+    "Station Name":"20th St at Dolores St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8817663,37.33203868 ]
+    },
+    "properties": {
+    "sid":327,
+    "Station Name":"5th St at San Salvador St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4066435,37.7802645 ]
+    },
+    "properties": {
+    "sid":349,
+    "Station Name":"Howard St at 6th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3856555,37.73985302 ]
+    },
+    "properties": {
+    "sid":361,
+    "Station Name":"Mendall St at Fairfax Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2665882,37.80696976 ]
+    },
+    "properties": {
+    "sid":337,
+    "Station Name":"Webster St at 19th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4089225,37.785876 ]
+    },
+    "properties": {
+    "sid":4,
+    "Station Name":"Cyril Magnin St at Ellis St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4217875,37.780819 ]
+    },
+    "properties": {
+    "sid":383,
+    "Station Name":"Golden Gate Ave at Franklin St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4132782,37.78732677 ]
+    },
+    "properties": {
+    "sid":370,
+    "Station Name":"Jones St at Post St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9044364,37.35502958 ]
+    },
+    "properties": {
+    "sid":391,
+    "Station Name":"1st St at Younger Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8905532,37.34771198 ]
+    },
+    "properties": {
+    "sid":378,
+    "Station Name":"7th St at Empire St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2781754,37.8505777 ]
+    },
+    "properties": {
+    "sid":385,
+    "Station Name":"Woolsey St at Sacramento St",
+    "Dock Count":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3982847,37.7874921 ]
+    },
+    "properties": {
+    "sid":363,
+    "Station Name":"Salesforce Transit Center (Natoma St at 2nd St)",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.446649,37.774804 ]
+    },
+    "properties": {
+    "sid":375,
+    "Station Name":"Grove St at Masonic Ave",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8876189,37.34942631 ]
+    },
+    "properties": {
+    "sid":394,
+    "Station Name":"10th St at Empire St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41659,37.787157 ]
+    },
+    "properties": {
+    "sid":369,
+    "Station Name":"Hyde St at Post St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4073774,37.76328094 ]
+    },
+    "properties": {
+    "sid":336,
+    "Station Name":"Potrero Ave and Mariposa St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3904285,37.7896767 ]
+    },
+    "properties": {
+    "sid":24,
+    "Station Name":"Spear St at Folsom St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.387449,37.7603435 ]
+    },
+    "properties": {
+    "sid":376,
+    "Station Name":"Illinois St at 20th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4319464,37.78045006 ]
+    },
+    "properties": {
+    "sid":365,
+    "Station Name":"Turk St at Fillmore St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8919373,37.35306166 ]
+    },
+    "properties": {
+    "sid":389,
+    "Station Name":"Taylor St at 9th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2624093,37.80403678 ]
+    },
+    "properties": {
+    "sid":372,
+    "Station Name":"Madison St at 17th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4222851,37.76918818 ]
+    },
+    "properties": {
+    "sid":356,
+    "Station Name":"Valencia St at Clinton Park",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.911732,37.36406046 ]
+    },
+    "properties": {
+    "sid":392,
+    "Station Name":"Sonora Ave at 1st St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419342,37.785479 ]
+    },
+    "properties": {
+    "sid":368,
+    "Station Name":"Myrtle St at Polk St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.393572,37.78317199 ]
+    },
+    "properties": {
+    "sid":343,
+    "Station Name":"Bryant St at 2nd St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9068342,37.36085416 ]
+    },
+    "properties": {
+    "sid":395,
+    "Station Name":"Kerley Dr at Rosemary St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4057868,37.77143136 ]
+    },
+    "properties": {
+    "sid":350,
+    "Station Name":"8th St at Brannan St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3879206,37.78292609 ]
+    },
+    "properties": {
+    "sid":38,
+    "Station Name":"The Embarcadero at Pier 38",
+    "Dock Count":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3988045,37.730079 ]
+    },
+    "properties": {
+    "sid":359,
+    "Station Name":"Williams Ave at Apollo St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4052155,37.75179165 ]
+    },
+    "properties": {
+    "sid":373,
+    "Station Name":"Potrero del Sol Park (25th St at Utah St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9194782,37.33802231 ]
+    },
+    "properties": {
+    "sid":393,
+    "Station Name":"Asbury St at The Alameda",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4255225,37.73981272 ]
+    },
+    "properties": {
+    "sid":387,
+    "Station Name":"Randall St at Chenery St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8928438,37.34113204 ]
+    },
+    "properties": {
+    "sid":357,
+    "Station Name":"2nd St at Julian St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4537048,37.7719511 ]
+    },
+    "properties": {
+    "sid":377,
+    "Station Name":"Fell St at Stanyan St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3895246,37.73890064 ]
+    },
+    "properties": {
+    "sid":360,
+    "Station Name":"Jerrold Ave at 3rd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9187942,37.36767805 ]
+    },
+    "properties": {
+    "sid":396,
+    "Station Name":"Metro Dr at Technology Dr",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4197236,37.75210498 ]
+    },
+    "properties": {
+    "sid":386,
+    "Station Name":"24th St at Bartlett St",
+    "Dock Count":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9123274,37.32601085 ]
+    },
+    "properties": {
+    "sid":417,
+    "Station Name":"Park Ave at Race St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.391038,37.7914015 ]
+    },
+    "properties": {
+    "sid":23,
+    "Station Name":"The Embarcadero at Steuart St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8959358,37.35683435 ]
+    },
+    "properties": {
+    "sid":402,
+    "Station Name":"Raymond Bernal Jr Memorial Park (8th St at Hedding St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8743849,37.34398468 ]
+    },
+    "properties": {
+    "sid":418,
+    "Station Name":"17th St at Santa Clara St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39402,37.72537519 ]
+    },
+    "properties": {
+    "sid":434,
+    "Station Name":"Carroll Ave at 3rd St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3865015,37.7501075 ]
+    },
+    "properties": {
+    "sid":410,
+    "Station Name":"Illinois St at Cesar Chavez St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8700987,37.32031582 ]
+    },
+    "properties": {
+    "sid":423,
+    "Station Name":"South San Jose State (7th St at Humboldt St)",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4168576,37.79647069 ]
+    },
+    "properties": {
+    "sid":398,
+    "Station Name":"Leavenworth St at Broadway",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4244135,37.8023 ]
+    },
+    "properties": {
+    "sid":441,
+    "Station Name":"Chestnut St at Van Ness Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8762785,37.32086615 ]
+    },
+    "properties": {
+    "sid":443,
+    "Station Name":"3rd St at Keyes St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399749,37.7864555 ]
+    },
+    "properties": {
+    "sid":445,
+    "Station Name":"Natoma St at New Montgomery St",
+    "Dock Count":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8787783,37.36000139 ]
+    },
+    "properties": {
+    "sid":421,
+    "Station Name":"23rd St at Taylor St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39438,37.78729 ]
+    },
+    "properties": {
+    "sid":26,
+    "Station Name":"1st St at Folsom St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.449228,37.765942 ]
+    },
+    "properties": {
+    "sid":440,
+    "Station Name":"Carl St at Cole St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9168147,37.36522655 ]
+    },
+    "properties": {
+    "sid":401,
+    "Station Name":"Skyport Dr at Technology Dr",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4511215,37.73165669 ]
+    },
+    "properties": {
+    "sid":433,
+    "Station Name":"Gennessee St at Monterey Blvd",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9030899,37.32118183 ]
+    },
+    "properties": {
+    "sid":416,
+    "Station Name":"Auzerais Ave at Los Gatos Creek Trail",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4238086,37.77401794 ]
+    },
+    "properties": {
+    "sid":411,
+    "Station Name":"Octavia Blvd at Page St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.909149,37.33677476 ]
+    },
+    "properties": {
+    "sid":422,
+    "Station Name":"Stockton Ave at Lenzen Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4673775,37.7642245 ]
+    },
+    "properties": {
+    "sid":451,
+    "Station Name":"10th Ave at Irving St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.433523,37.8044325 ]
+    },
+    "properties": {
+    "sid":400,
+    "Station Name":"Buchanan St at North Point St",
+    "Dock Count":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390973,37.73309281 ]
+    },
+    "properties": {
+    "sid":432,
+    "Station Name":"Quesada Ave at 3rd St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9059759,37.32345134 ]
+    },
+    "properties": {
+    "sid":405,
+    "Station Name":"Sunol St at San Carlos St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4368608,37.7789994 ]
+    },
+    "properties": {
+    "sid":39,
+    "Station Name":"Scott St at Golden Gate Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4706507,37.76393403 ]
+    },
+    "properties": {
+    "sid":450,
+    "Station Name":"Funston Ave at Irving St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4360635,37.8026635 ]
+    },
+    "properties": {
+    "sid":399,
+    "Station Name":"Bay St at Fillmore St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8963254,37.31128395 ]
+    },
+    "properties": {
+    "sid":425,
+    "Station Name":"Bird Ave at Willow St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4205245,37.788189 ]
+    },
+    "properties": {
+    "sid":419,
+    "Station Name":"Fern St at Polk St",
+    "Dock Count":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8922511,37.35569265 ]
+    },
+    "properties": {
+    "sid":403,
+    "Station Name":"10th St at Mission St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8706781,37.3457588 ]
+    },
+    "properties": {
+    "sid":404,
+    "Station Name":"21st St at Santa Clara St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450695,37.72828159 ]
+    },
+    "properties": {
+    "sid":431,
+    "Station Name":"Judson Ave at Gennessee St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8813318,37.37111641 ]
+    },
+    "properties": {
+    "sid":444,
+    "Station Name":"Mercado Way at Sierra Rd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4341217,37.79920793 ]
+    },
+    "properties": {
+    "sid":424,
+    "Station Name":"Greenwich St at Webster St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.464998,37.7751205 ]
+    },
+    "properties": {
+    "sid":454,
+    "Station Name":"7th Ave at Cabrillo St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4442926,37.77331088 ]
+    },
+    "properties": {
+    "sid":70,
+    "Station Name":"Central Ave at Fell St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4341404,37.7328128 ]
+    },
+    "properties": {
+    "sid":412,
+    "Station Name":"Glen Park BART Station",
+    "Dock Count":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9082961,37.32096853 ]
+    },
+    "properties": {
+    "sid":427,
+    "Station Name":"Auzerais Ave at Lincoln Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3969731,37.77793367 ]
+    },
+    "properties": {
+    "sid":453,
+    "Station Name":"Brannan St at 4th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8978328,37.31515793 ]
+    },
+    "properties": {
+    "sid":407,
+    "Station Name":"Bird Ave at Coe Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2987177,37.83954308 ]
+    },
+    "properties": {
+    "sid":409,
+    "Station Name":"2100 Powell St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3865366,37.72939321 ]
+    },
+    "properties": {
+    "sid":435,
+    "Station Name":"Jennings St at Revere Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9093153,37.3618668 ]
+    },
+    "properties": {
+    "sid":397,
+    "Station Name":"Gish Rd at 1st St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9100046,37.31673648 ]
+    },
+    "properties": {
+    "sid":406,
+    "Station Name":"Parkmoor Ave at Race St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8679664,37.36553566 ]
+    },
+    "properties": {
+    "sid":442,
+    "Station Name":"Newbury Park Dr at King Rd",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3834355,37.740048 ]
+    },
+    "properties": {
+    "sid":437,
+    "Station Name":"Evans Ave at Mendell St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4337079,37.7717933 ]
+    },
+    "properties": {
+    "sid":73,
+    "Station Name":"Pierce St at Haight St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8929994,37.31975696 ]
+    },
+    "properties": {
+    "sid":415,
+    "Station Name":"Delmas Ave at Virginia St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3899698,37.73629587 ]
+    },
+    "properties": {
+    "sid":436,
+    "Station Name":"McKinnon Ave at 3rd St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4477232,37.72055499 ]
+    },
+    "properties": {
+    "sid":413,
+    "Station Name":"Balboa Park BART Station",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.407313,37.78227953 ]
+    },
+    "properties": {
+    "sid":446,
+    "Station Name":"Mint St at Mission St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.439361,37.784419 ]
+    },
+    "properties": {
+    "sid":439,
+    "Station Name":"Post St at Divisadero St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9134969,37.32334469 ]
+    },
+    "properties": {
+    "sid":426,
+    "Station Name":"San Carlos St at Meridian Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3944985,37.7370395 ]
+    },
+    "properties": {
+    "sid":438,
+    "Station Name":"Oakdale Ave at Phelps St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3767841,37.74032178 ]
+    },
+    "properties": {
+    "sid":463,
+    "Station Name":"Heron's Head Park",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4328959,37.73017447 ]
+    },
+    "properties": {
+    "sid":497,
+    "Station Name":"Alemany Blvd at Silver Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4761036,37.78071989 ]
+    },
+    "properties": {
+    "sid":477,
+    "Station Name":"17th Ave at Geary Blvd",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4358575,37.772354 ]
+    },
+    "properties": {
+    "sid":72,
+    "Station Name":"Page St at Scott St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4354011,37.78856891 ]
+    },
+    "properties": {
+    "sid":480,
+    "Station Name":"Steiner St at California St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4576366,37.76578299 ]
+    },
+    "properties": {
+    "sid":458,
+    "Station Name":"Frederick St at Arguello Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4728095,37.780364 ]
+    },
+    "properties": {
+    "sid":474,
+    "Station Name":"14th Ave at Geary Blvd",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4017716,37.80219785 ]
+    },
+    "properties": {
+    "sid":500,
+    "Station Name":"Battery St at Filbert St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458806,37.78146762 ]
+    },
+    "properties": {
+    "sid":456,
+    "Station Name":"Arguello Blvd at Geary Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4719676,37.78249788 ]
+    },
+    "properties": {
+    "sid":489,
+    "Station Name":"Funston Ave at Clement St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4631418,37.77948761 ]
+    },
+    "properties": {
+    "sid":466,
+    "Station Name":"5th Ave at Anza St",
+    "Dock Count":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4259195,37.80025443 ]
+    },
+    "properties": {
+    "sid":478,
+    "Station Name":"Greenwich St at Franklin St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4055145,37.753259 ]
+    },
+    "properties": {
+    "sid":459,
+    "Station Name":"Utah St at 24th St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402087,37.804648 ]
+    },
+    "properties": {
+    "sid":462,
+    "Station Name":"Cruise Terminal at Pier 27",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4345589,37.78381271 ]
+    },
+    "properties": {
+    "sid":31,
+    "Station Name":"Raymond Kimbell Playground",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.417385,37.776619 ]
+    },
+    "properties": {
+    "sid":58,
+    "Station Name":"Market St at 10th St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.47123,37.77326318 ]
+    },
+    "properties": {
+    "sid":485,
+    "Station Name":"Funston Ave at Fulton St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9000107,37.30901407 ]
+    },
+    "properties": {
+    "sid":473,
+    "Station Name":"Willow St at Blewett Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8772924,37.34266259 ]
+    },
+    "properties": {
+    "sid":470,
+    "Station Name":"N 14th St at E Santa Clara St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4640632,37.76343361 ]
+    },
+    "properties": {
+    "sid":457,
+    "Station Name":"7th Ave at Irving St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8997197,37.32412595 ]
+    },
+    "properties": {
+    "sid":472,
+    "Station Name":"Columbia Ave at Bird Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3863328,37.76909489 ]
+    },
+    "properties": {
+    "sid":460,
+    "Station Name":"Terry Francois Blvd at Warriors Way",
+    "Dock Count":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8665206,37.33846801 ]
+    },
+    "properties": {
+    "sid":476,
+    "Station Name":"19th St at William St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3866224,37.77132959 ]
+    },
+    "properties": {
+    "sid":461,
+    "Station Name":"Terry Francois Blvd at Mission Bay Blvd N",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4035775,37.772712 ]
+    },
+    "properties": {
+    "sid":482,
+    "Station Name":"Brannan St at 7th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4473745,37.78113055 ]
+    },
+    "properties": {
+    "sid":481,
+    "Station Name":"O'Farrell St at Masonic Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4332741,37.77754677 ]
+    },
+    "properties": {
+    "sid":54,
+    "Station Name":"Alamo Square (Steiner St at Fulton St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8956441,37.3386706 ]
+    },
+    "properties": {
+    "sid":491,
+    "Station Name":"Devine St at San Pedro St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8640208,37.34037874 ]
+    },
+    "properties": {
+    "sid":475,
+    "Station Name":"22nd St at William St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4676359,37.78184072 ]
+    },
+    "properties": {
+    "sid":490,
+    "Station Name":"9th Ave at Geary Blvd",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3924965,37.72262992 ]
+    },
+    "properties": {
+    "sid":488,
+    "Station Name":"Egbert Ave at Jennings St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4524438,37.72588979 ]
+    },
+    "properties": {
+    "sid":498,
+    "Station Name":"Frida Kahlo Way at Cloud Cir",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422953,37.77787007 ]
+    },
+    "properties": {
+    "sid":468,
+    "Station Name":"Grove St at Gough St",
+    "Dock Count":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4357699,37.78198169 ]
+    },
+    "properties": {
+    "sid":469,
+    "Station Name":"Ellis St at Pierce St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8843895,37.34320849 ]
+    },
+    "properties": {
+    "sid":495,
+    "Station Name":"St James St at 9th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4325901,37.79080303 ]
+    },
+    "properties": {
+    "sid":492,
+    "Station Name":"Webster St at Clay St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9049111,37.32628232 ]
+    },
+    "properties": {
+    "sid":494,
+    "Station Name":"Park Ave at Laurel Grove Ln",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4418376,37.7774157 ]
+    },
+    "properties": {
+    "sid":52,
+    "Station Name":"McAllister St at Baker St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4233016,37.79297985 ]
+    },
+    "properties": {
+    "sid":479,
+    "Station Name":"Washington St at Van Ness Ave",
+    "Dock Count":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.458104,37.775328 ]
+    },
+    "properties": {
+    "sid":455,
+    "Station Name":"McAllister St at Arguello Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.423535,37.79762791 ]
+    },
+    "properties": {
+    "sid":496,
+    "Station Name":"Green St at Van Ness Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3913431,37.78238579 ]
+    },
+    "properties": {
+    "sid":467,
+    "Station Name":"Brannan St at Colin P Kelly Jr St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419976,37.772219 ]
+    },
+    "properties": {
+    "sid":499,
+    "Station Name":"Otis St at Brady St",
+    "Dock Count":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.394495,37.7763115 ]
+    },
+    "properties": {
+    "sid":465,
+    "Station Name":"San Francisco Caltrain Station (King St at 4th St)",
+    "Dock Count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4008864,37.77122902 ]
+    },
+    "properties": {
+    "sid":483,
+    "Station Name":"7th St at King St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410887,37.80049604 ]
+    },
+    "properties": {
+    "sid":487,
+    "Station Name":"Powell St at Columbus Ave",
+    "Dock Count":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4546218,37.77760931 ]
+    },
+    "properties": {
+    "sid":471,
+    "Station Name":"Turk Blvd at Stanyan St",
+    "Dock Count":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4586451,37.77848699 ]
+    },
+    "properties": {
+    "sid":486,
+    "Station Name":"Arguello Blvd at Edward St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4113061,37.7765126 ]
+    },
+    "properties": {
+    "sid":61,
+    "Station Name":"Howard St at 8th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4079084,37.77666378 ]
+    },
+    "properties": {
+    "sid":493,
+    "Station Name":"Folsom St at 7th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.476163,37.731085 ]
+    },
+    "properties": {
+    "sid":540,
+    "Station Name":"Eucalyptus Dr at 20th Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.498498,37.775522 ]
+    },
+    "properties": {
+    "sid":532,
+    "Station Name":"38th Ave at Balboa St",
+    "Dock Count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.511208,37.775211 ]
+    },
+    "properties": {
+    "sid":543,
+    "Station Name":"Great Hwy at Balboa St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.480389,37.780111 ]
+    },
+    "properties": {
+    "sid":525,
+    "Station Name":"21st Ave at Geary Blvd",
+    "Dock Count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.477667,37.785111 ]
+    },
+    "properties": {
+    "sid":515,
+    "Station Name":"18th Ave at California St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.482735,37.722001 ]
+    },
+    "properties": {
+    "sid":537,
+    "Station Name":"Font Blvd at Arballo Dr",
+    "Dock Count":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.494064,37.775681 ]
+    },
+    "properties": {
+    "sid":524,
+    "Station Name":"34th Ave at Balboa St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405943,37.756808 ]
+    },
+    "properties": {
+    "sid":518,
+    "Station Name":"22nd St at Potrero Ave",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4432385,37.72489268 ]
+    },
+    "properties": {
+    "sid":501,
+    "Station Name":"Balboa Park (San Jose Ave at Sgt. John V. Young Ln",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4159292,37.7787677 ]
+    },
+    "properties": {
+    "sid":43,
+    "Station Name":"San Francisco Public Library (Grove St at Hyde St)",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429315,37.791966 ]
+    },
+    "properties": {
+    "sid":523,
+    "Station Name":"Lafayette Park (Laguna St at Washington St)",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.440683,37.7895875 ]
+    },
+    "properties": {
+    "sid":512,
+    "Station Name":"Divisadero St at Clay St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4044028,37.76854574 ]
+    },
+    "properties": {
+    "sid":513,
+    "Station Name":"Alameda St at Henry Adams St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4334914,37.71319254 ]
+    },
+    "properties": {
+    "sid":505,
+    "Station Name":"Geneva Ave at Moscow St",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442702,37.802949 ]
+    },
+    "properties": {
+    "sid":539,
+    "Station Name":"North Point St at Divisadero St",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4653775,37.78243852 ]
+    },
+    "properties": {
+    "sid":506,
+    "Station Name":"7th Ave at Clement St",
+    "Dock Count":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.395626,37.788032 ]
+    },
+    "properties": {
+    "sid":527,
+    "Station Name":"Tehama St at 1st St",
+    "Dock Count":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.492844,37.781722 ]
+    },
+    "properties": {
+    "sid":516,
+    "Station Name":"Clement St at 32nd Ave",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.426527,37.778307 ]
+    },
+    "properties": {
+    "sid":534,
+    "Station Name":"Fulton St at Laguna St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4534228,37.7865785 ]
+    },
+    "properties": {
+    "sid":517,
+    "Station Name":"Spruce St at California St",
+    "Dock Count":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4273169,37.77341397 ]
+    },
+    "properties": {
+    "sid":56,
+    "Station Name":"Koshland Park",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4500525,37.7866115 ]
+    },
+    "properties": {
+    "sid":514,
+    "Station Name":"Laurel St at California St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.429772,37.734966 ]
+    },
+    "properties": {
+    "sid":529,
+    "Station Name":"Arlington St at Roanoke St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.427457,37.797249 ]
+    },
+    "properties": {
+    "sid":544,
+    "Station Name":"Allyne Park (Green St at Gough St)",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.450012,37.78068 ]
+    },
+    "properties": {
+    "sid":511,
+    "Station Name":"Anza St at Collins St",
+    "Dock Count":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.386843,37.742232 ]
+    },
+    "properties": {
+    "sid":509,
+    "Station Name":"Evans Ave at Newhall St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.509071,37.772954 ]
+    },
+    "properties": {
+    "sid":521,
+    "Station Name":"48th Ave at Cabrillo St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.431821,37.785394 ]
+    },
+    "properties": {
+    "sid":510,
+    "Station Name":"Post St at Webster St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4383032,37.72154367 ]
+    },
+    "properties": {
+    "sid":504,
+    "Station Name":"Onondaga Ave at Alemany Blvd",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442878,37.783973 ]
+    },
+    "properties": {
+    "sid":530,
+    "Station Name":"Post St at Baker St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.478859,37.72095 ]
+    },
+    "properties": {
+    "sid":541,
+    "Station Name":"Holloway Ave at Arellano Ave",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421239,37.77379321 ]
+    },
+    "properties": {
+    "sid":75,
+    "Station Name":"Market St at Franklin St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4827855,37.7819295 ]
+    },
+    "properties": {
+    "sid":520,
+    "Station Name":"23rd Ave at Clement St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4438098,37.72238229 ]
+    },
+    "properties": {
+    "sid":502,
+    "Station Name":"Delano Ave at Oneida Ave",
+    "Dock Count":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399998,37.773238 ]
+    },
+    "properties": {
+    "sid":519,
+    "Station Name":"Townsend St at 6th St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.442326,37.770519 ]
+    },
+    "properties": {
+    "sid":538,
+    "Station Name":"Haight St at Lyon St",
+    "Dock Count":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4423252,37.78255087 ]
+    },
+    "properties": {
+    "sid":508,
+    "Station Name":"St. Joseph's Ave at Geary Blvd",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.435562,37.798014 ]
+    },
+    "properties": {
+    "sid":535,
+    "Station Name":"Filbert St at Fillmore St",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.398823,37.793177 ]
+    },
+    "properties": {
+    "sid":533,
+    "Station Name":"Front St at California St",
+    "Dock Count":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.456303,37.780949 ]
+    },
+    "properties": {
+    "sid":528,
+    "Station Name":"Stanyan St at Geary Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4401057,37.71616095 ]
+    },
+    "properties": {
+    "sid":503,
+    "Station Name":"London St at Geneva Ave",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.48797,37.779673 ]
+    },
+    "properties": {
+    "sid":531,
+    "Station Name":"28th Ave at Geary Blvd",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4094494,37.7745204 ]
+    },
+    "properties": {
+    "sid":60,
+    "Station Name":"8th St at Ringold St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.437261,37.805376 ]
+    },
+    "properties": {
+    "sid":536,
+    "Station Name":"Fillmore St at Jefferson St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4295585,37.7770527 ]
+    },
+    "properties": {
+    "sid":55,
+    "Station Name":"Webster St at Grove St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4262025,37.7762475 ]
+    },
+    "properties": {
+    "sid":74,
+    "Station Name":"Laguna St at Hayes St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.400811,37.7896254 ]
+    },
+    "properties": {
+    "sid":21,
+    "Station Name":"Montgomery St BART Station (Market St at 2nd St)",
+    "Dock Count":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39317,37.77588 ]
+    },
+    "properties": {
+    "sid":81,
+    "Station Name":"Berry St at 4th St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.41823,37.77865 ]
+    },
+    "properties": {
+    "sid":42,
+    "Station Name":"San Francisco City Hall (Polk St at Grove St)",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4117382,37.7810737 ]
+    },
+    "properties": {
+    "sid":44,
+    "Station Name":"Civic Center/UN Plaza BART Station (Market St at McAllister St)",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.402694,37.7758375 ]
+    },
+    "properties": {
+    "sid":63,
+    "Station Name":"Bryant St at 6th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.418954,37.774814 ]
+    },
+    "properties": {
+    "sid":59,
+    "Station Name":"S Van Ness Ave at Market St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4036725,37.7734919 ]
+    },
+    "properties": {
+    "sid":79,
+    "Station Name":"7th St at Brannan St",
+    "Dock Count":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4160402,37.7735069 ]
+    },
+    "properties": {
+    "sid":77,
+    "Station Name":"11th St at Natoma St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3974371,37.77523487 ]
+    },
+    "properties": {
+    "sid":80,
+    "Station Name":"Townsend St at 5th St",
+    "Dock Count":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.390288,37.780526 ]
+    },
+    "properties": {
+    "sid":50,
+    "Station Name":"2nd St at Townsend St",
+    "Dock Count":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4064319,37.77779057 ]
+    },
+    "properties": {
+    "sid":62,
+    "Station Name":"Victoria Manalo Draves Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9045758,37.32911867 ]
+    },
+    "properties": {
+    "sid":35,
+    "Station Name":"Cahill Park",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2423732,37.79013985 ]
+    },
+    "properties": {
+    "sid":46,
+    "Station Name":"San Antonio Park",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4116467,37.7737172 ]
+    },
+    "properties": {
+    "sid":78,
+    "Station Name":"Folsom St at 9th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4377775,37.775946 ]
+    },
+    "properties": {
+    "sid":53,
+    "Station Name":"Grove St at Divisadero",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3949894,37.7807601 ]
+    },
+    "properties": {
+    "sid":49,
+    "Station Name":"S Park St at 3rd St",
+    "Dock Count":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4338119,37.7692005 ]
+    },
+    "properties": {
+    "sid":84,
+    "Station Name":"Duboce Park",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.392553,37.7785885 ]
+    },
+    "properties": {
+    "sid":66,
+    "Station Name":"3rd St at Townsend St",
+    "Dock Count":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4390777,37.7730627 ]
+    },
+    "properties": {
+    "sid":71,
+    "Station Name":"Broderick St at Oak St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3990176,37.7767539 ]
+    },
+    "properties": {
+    "sid":64,
+    "Station Name":"5th St at Brannan St",
+    "Dock Count":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.422301,37.77168 ]
+    },
+    "properties": {
+    "sid":76,
+    "Station Name":"McCoppin St at Valencia St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4008113,37.78067477 ]
+    },
+    "properties": {
+    "sid":47,
+    "Station Name":"Clara St at 4th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3946515,37.789729 ]
+    },
+    "properties": {
+    "sid":22,
+    "Station Name":"Howard St at Beale St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4530929,37.77610091 ]
+    },
+    "properties": {
+    "sid":51,
+    "Station Name":"Parker Ave at McAllister St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4318042,37.764285 ]
+    },
+    "properties": {
+    "sid":105,
+    "Station Name":"16th St at Prosper St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3984376,37.77176211 ]
+    },
+    "properties": {
+    "sid":91,
+    "Station Name":"Berry St at King St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3912365,37.7703135 ]
+    },
+    "properties": {
+    "sid":93,
+    "Station Name":"4th St at Mission Bay Blvd S",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3906477,37.7616343 ]
+    },
+    "properties": {
+    "sid":126,
+    "Station Name":"Esprit Park",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4199265,37.7646845 ]
+    },
+    "properties": {
+    "sid":108,
+    "Station Name":"16th St Mission BART",
+    "Dock Count":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4130036,37.7638471 ]
+    },
+    "properties": {
+    "sid":112,
+    "Station Name":"Harrison St at 17th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.420359,37.768227 ]
+    },
+    "properties": {
+    "sid":97,
+    "Station Name":"14th St at Mission St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.421025,37.7567083 ]
+    },
+    "properties": {
+    "sid":127,
+    "Station Name":"Valencia St at 21st St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4266585,37.7661 ]
+    },
+    "properties": {
+    "sid":96,
+    "Station Name":"Dolores St at 15th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.39887,37.78383 ]
+    },
+    "properties": {
+    "sid":36,
+    "Station Name":"Folsom St at 3rd St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4117258,37.7700298 ]
+    },
+    "properties": {
+    "sid":88,
+    "Station Name":"11th St at Bryant St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4291485,37.769818 ]
+    },
+    "properties": {
+    "sid":85,
+    "Station Name":"Church St at Duboce Ave",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4258368,37.75499463 ]
+    },
+    "properties": {
+    "sid":131,
+    "Station Name":"22nd St at Dolores St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4220555,37.763333 ]
+    },
+    "properties": {
+    "sid":109,
+    "Station Name":"17th St at Valencia St",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4218661,37.765052 ]
+    },
+    "properties": {
+    "sid":98,
+    "Station Name":"Valencia St at 16th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4025701,37.7644783 ]
+    },
+    "properties": {
+    "sid":114,
+    "Station Name":"Rhode Island St at 17th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3930275,37.77230063 ]
+    },
+    "properties": {
+    "sid":92,
+    "Station Name":"Mission Bay Kids Park",
+    "Dock Count":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410662,37.7671004 ]
+    },
+    "properties": {
+    "sid":100,
+    "Station Name":"Bryant St at 15th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4188895,37.7602925 ]
+    },
+    "properties": {
+    "sid":122,
+    "Station Name":"19th St at Mission St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.410807,37.7604469 ]
+    },
+    "properties": {
+    "sid":124,
+    "Station Name":"19th St at Florida St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399051,37.7913 ]
+    },
+    "properties": {
+    "sid":20,
+    "Station Name":"Mechanics Monument Plaza (Market St at Bush St)",
+    "Dock Count":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4326417,37.7610471 ]
+    },
+    "properties": {
+    "sid":119,
+    "Station Name":"18th St at Noe St",
+    "Dock Count":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.399528,37.7668905 ]
+    },
+    "properties": {
+    "sid":102,
+    "Station Name":"Irwin St at 8th St",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4154425,37.7670373 ]
+    },
+    "properties": {
+    "sid":99,
+    "Station Name":"Folsom St at 15th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3990255,37.764965 ]
+    },
+    "properties": {
+    "sid":115,
+    "Station Name":"Jackson Playground",
+    "Dock Count":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4266139,37.7518194 ]
+    },
+    "properties": {
+    "sid":132,
+    "Station Name":"24th St at Chattanooga St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3947595,37.764794 ]
+    },
+    "properties": {
+    "sid":116,
+    "Station Name":"Mississippi St at 17th St",
+    "Dock Count":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4367975,37.759211 ]
+    },
+    "properties": {
+    "sid":118,
+    "Station Name":"Eureka Valley Recreation Center",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4306746,37.7632417 ]
+    },
+    "properties": {
+    "sid":106,
+    "Station Name":"Sanchez St at 17th St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4269645,37.769244 ]
+    },
+    "properties": {
+    "sid":86,
+    "Station Name":"Market St at Dolores St",
+    "Dock Count":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.415674,37.769757 ]
+    },
+    "properties": {
+    "sid":87,
+    "Station Name":"Folsom St at 13th St",
+    "Dock Count":27
+    }
+  }
+]
+}

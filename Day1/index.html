@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<!-- Fonts -->
+		<link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+		<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+	<!-- Fonts -->
+
+	<!-- CSS -->
+		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+		<link href="css/main.css" rel="stylesheet" type="text/css" />
+	<!-- CSS -->
+
+
+</head>
+</body>
+
+<div class="container-fluid">
+    <div class = "row">
+        <div class="col-md-4 col-sm-12" >
+            <div class="row" id='side'>
+                <div class="col-md-4 col-sm-12"></div>
+                <div class="col-md-4 col-sm-12">
+                    <svg width="150" height="150"
+                      xmlns="http://www.w3.org/2000/svg">       
+                      <image align="middle" href="data/bi.svg" height="150" width="150" />
+                    </svg>
+                </div>
+                <div class="col-md-4 col-sm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-1 col-sm-12"></div>
+                <div class="col-md-10 col-sm-12">
+                    <h1 id='projectTitle' class="display-4">Is SF a Bike-Friendly City?</h1>
+                </div>
+                <div class="col-md-1 col-sm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 col-sm-12"></div>
+                <div class="col-md-6 col-sm-12">
+                    <div id = "myName">Bike Share Stations in San Francisco</div>
+                </div>
+                <div class="col-md-3 col-sm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-12"></div>
+                <div class="col-md-8 col-sm-12">
+                    <p class= 'description'>In the Bay Area, bike share options have always been expanding, and the <b> San Francisco Municipal Transportation Agency (SFMTA)</b> is responsible for this task in the city and county of San Francisco.<br> <br>
+                    Bikeshare is a great option for quick and affordable stand-alone trips to get around the city. It was such a useful transportation option for the busiest travel times that Bay Area residents and commuters face. However, due to this pandemic, the biking industry has seen a sudden spike in sales. But are cities ready for this change? <br> <br>
+                    The map is showing  <span style="background-color:#dfc9f5">260</span> bike share stations in the city of San Francisco. <b>Terry Francois Blvd at Warriors Way</b> has the highest dock count of <span style="background-color:#dfc9f5">42</span> while <b>Glen Park BART station</b> has the second-highest dock count. The most surprising thing on the map was the <b>Sunset District</b>, which has <span style="background-color:#dfc9f5">no</span> bike-share stations. In addition, <b>West Twin Peak</b> and <b>Marina Pacific Heights</b> neighborhoods have <span style="background-color:#dfc9f5">very few or no </span> bike stations. 
+
+
+
+                     </p>
+                </div>
+                <div class="col-md-2 col-sm-12"></div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 col-sm-12"></div>
+                <div class="col-md-8 col-sm-12">
+                    <div id='source'class="row">
+                        <b>Source: &nbsp;</b>  <i>Data:</i>&nbsp; Bay Area Bikeshare Stations&nbsp;<a href="https://data.sfgov.org/Transportation/Bay-Area-Bikeshare-Stations/7jbp-yzp3">https://datasf.org/</a> &nbsp;
+                        <i>Shapefile:</i> &nbsp;<a href="https://catalog.data.gov/dataset/tiger-line-shapefile-2017-county-san-francisco-county-ca-all-roads-county-based-shapefile">https://www.data.gov/</a> 
+                        &nbsp;<i>Bike Icon:</i> &nbsp;Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">&nbsp;Freepik&nbsp;</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> &nbsp; &nbsp;
+                        <b>Tools: &nbsp;</b> D3.js, Shapefile, d3-annotation, d3-legend
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-12"></div>
+            </div>
+        </div>
+        <div class="col-md-8 col-sm-12" >
+            <div class="row" id='side'>
+                <div id = "maincontainer"></div>
+            </div>
+            <div class="row">
+                <div id = "legendcontainer"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<!-- JS -->
+<script src="https://code.jquery.com/jquery-3.5.0.min.js" integrity="sha256-xNzN2a4ltkB44Mc/Jz3pT4iU1cmeR0FkXs4pru/JxaQ=" crossorigin="anonymous"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src= 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js'></script>
+<script src="https://d3js.org/topojson.v2.min.js"></script>
+<script src="https://unpkg.com/d3-geo-scale-bar@1.0.2/build/d3-geo-scale-bar.min.js"></script>
+<script src="https://d3js.org/d3-color.v2.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v2.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
+<!-- JS -->
+</html>
