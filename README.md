@@ -1,1 +1,1 @@
-# 30DayMapChallenge
+# WeeklyMaps
